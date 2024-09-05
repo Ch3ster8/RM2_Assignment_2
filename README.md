@@ -1,8 +1,8 @@
 # RM2_Assignment_2
-Explain the design process:
-Contraints and implications for decision making:
-Explains technology theories, concepts and principles and describes the properties of materials or data or systems to address a need, problem, or challenge:
-Thinks critically, drawing on data and information to solve problems:
+   * Explain the design process:
+   * Contraints and implications for decision making:
+   * Explains technology theories, concepts and principles and describes the properties of materials or data or systems to address a need, problem, or challenge:
+   * Thinks critically, drawing on data and information to solve problems:
 
 RM1_Assignment_1:
 RM1_Assignment_2:
