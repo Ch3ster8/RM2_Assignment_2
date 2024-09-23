@@ -37,15 +37,15 @@
 
 <a name="Assignment-4"></a>
 # [Assignment 4](https://docs.google.com/document/d/1AUkccOJvTg26qP0JidxsnGPb405F-uH-OYcI0rLjJEU/edit?usp=sharing) (Logic-Gates)
-  * **What the assignment was and what I learnt from it** The goal of this assignment was to make a circuit with at least two logic gates using no code, this taught me a lot about transistors and gave me a better understanding of how logic gates actually work even in code, I also had to worry about resistance issues and learn ohms law, this assignment has definitely taught me the most new information.
+  * The goal of this assignment was to make a circuit with at least two logic gates using no code, this taught me a lot about transistors and gave me a better understanding of how logic gates actually work even in code, I also had to worry about resistance issues and learn ohms law, this assignment has definitely taught me the most new information.
     
-  * **Explain the design process** I started off by finding what I wanted to make, and then I made a prototype in [Tinkercad](https://www.tinkercad.com) which had a fair share of issues however I got it mostly working and moved onto making the physical version, however, I realised too late on that my project would not actually be my original idea and instead became a variant of the original circuit I was trying to make, this is due to poor planning, after finishing the physical version I wrote my documentation and then got feedback and did some editing.
+  * I started off by finding what I wanted to make, and then I made a prototype in [Tinkercad](https://www.tinkercad.com) which had a fair share of issues however I got it mostly working and moved onto making the physical version, however, I realised too late on that my project would not actually be my original idea and instead became a variant of the original circuit I was trying to make, this is due to poor planning, after finishing the physical version I wrote my documentation and then got feedback and did some editing.
     
-  * **Constraints for decision making** A major constraint I had when deciding what circuit I wanted to make was time, despite knowing how to make each gate individually when putting them together in sequence a lot of issues arose and I had to spend a lot of time troubleshooting which sucked away time from documentation and made my project a lot less complex. I also ran out of some resistors and had to figure out a way to make the project work with the wrong resistors, however, I did drive to [Jaycar](https://www.jaycar.com.au) to pick up some 1k ohm resistors however this cost me a lot of time as well and I still did not have many 10k ohm resistors.
+  * A major constraint I had when deciding what circuit I wanted to make was time, despite knowing how to make each gate individually when putting them together in sequence a lot of issues arose and I had to spend a lot of time troubleshooting which sucked away time from documentation and made my project a lot less complex. I also ran out of some resistors and had to figure out a way to make the project work with the wrong resistors, however, I did drive to [Jaycar](https://www.jaycar.com.au) to pick up some 1k ohm resistors however this cost me a lot of time as well and I still did not have many 10k ohm resistors.
     
-  * **How to use these skills in the future** 
+  * The knowledge of logic gates and truth tables can be really useful for coding, for me coding is my best skill and upgrading that skill to a further degree is always welcome, it is good for coding because working out complex problems can be as simple as making a truth table and then reverse engineering the truth table into logic gates then converting that into if statements, this is useful for all circuits that require code as a skill but this knowledge can also be used for primitive logic gates if needed.
     
-  * **If I could redo this assignment**
+  * If I could redo this assignment I would 
     
   * [Table of Contents](#Table-of-Contents)
 
