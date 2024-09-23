@@ -13,16 +13,56 @@
 
 <a name="Assignment-2"></a>
 # Assignment 2 (Fusion-360)
-  *
+  * **What the assignment was and what I learnt from it**
+    
+  * **Explain the design process**
+    
+  * **Constraints for decision making**
+    
+  * **How I used these skills**
+    
+  * **How to use these skills in the future**
+    
+  * **If I could redo this assignment**
 
 <a name="Assignment-3"></a>
 # Assignment 3 (Prototyping)
-  *
+  * **What the assignment was and what I learnt from it**
+    
+  * **Explain the design process**
+    
+  * **Constraints for decision making**
+    
+  * **How I used these skills**
+    
+  * **How to use these skills in the future**
+    
+  * **If I could redo this assignment**
 
 <a name="Assignment-4"></a>
 # Assignment 4 (Logic-Gates)
-  * 
+  * **What the assignment was and what I learnt from it**
+    
+  * **Explain the design process**
+    
+  * **Constraints for decision making**
+    
+  * **How I used these skills**
+    
+  * **How to use these skills in the future**
+    
+  * **If I could redo this assignment**
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
-  *
+  * **What the assignment was and what I learnt from it**
+    
+  * **Explain the design process**
+    
+  * **Constraints for decision making**
+    
+  * **How I used these skills**
+    
+  * **How to use these skills in the future**
+    
+  * **If I could redo this assignment**
