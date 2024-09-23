@@ -55,14 +55,4 @@
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
-  * **What the assignment was and what I learnt from it**
-    
-  * **Explain the design process**
-    
-  * **Constraints for decision making**
-    
-  * **How I used these skills**
-    
-  * **How to use these skills in the future**
-    
-  * **If I could redo this assignment**
+  * 
