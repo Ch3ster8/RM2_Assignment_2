@@ -13,7 +13,7 @@
     
   * **Constraints for decision making** I needed to incorporate my lack of knowledge into my design's complexity as I was not able to fully complete it. 
     
-  * **How I used these skills** 3D-Modeling
+  * **How I used these skills** 3D-Modeling is an important skill
     
   * **How to use these skills in the future**
     
