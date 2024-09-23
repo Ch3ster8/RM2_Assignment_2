@@ -28,10 +28,8 @@
   * <a href="url"><img src="robotics evidence.jpg" align="right" height="427" width="427" ></a>**Explain the design process** I did not start with planning because this assignment was based on [Assignment 2 (Fusion-360)](#Assignment-2) which was the planning, so I got straight to work on the project and after making it functional I did some testing with friends that were over at my house and applied the necessary tweaks.
     
   * **Constraints for decision making** Due to [Assignment 2 (Fusion-360)](#Assignment-2) being less than ideal, it did affect this assignment quite critically and so because of this constraint I decided to laser cut my prototype, this was also faster and taught me a bit about using [Hackerspace](https://boxes.hackerspace-bamberg.de/Console2?language=en). There was also a supply issue and none of our parts were ordered, this meant I had to change a lot of my project and basically ended up changing the entire concept of the project.
-    
-  * **How I used these skills** 
-    
-  * **How to use these skills in the future**
+
+  * **How to use these skills in the future** These skills are very adaptable to future assignments or personal robotics projects because prototyping is a core component of robotics, it allows the maker to make what they want without fully committing to the project meaning if it doesn't turn out well starting again isn't too much of a hassle. From this point onwards I will make a prototype of every project before committing to the final project, having to rip everything apart because it didn't turn out well is gut-wrenching and I'd like to avoid it, thankfully this assignment has taught me how to stop doing that.
     
   *  **If I could redo this assignment** I don't think I could have changed much of the outcome due to the sudden lack of parts due to a logistics issue, however, I would have liked to have put more thought into my puzzle because, in the end, that was what got my grade marked down a bit. The puzzle was a bit incomplete and was really hard to work out without instructions, as you can see in the image I had to put paper notes explaining how to do various parts of the puzzle due to it being unintuitive.
     
@@ -39,11 +37,11 @@
 
 <a name="Assignment-4"></a>
 # [Assignment 4]() (Logic-Gates)
-  * **What the assignment was and what I learnt from it**
+  * **What the assignment was and what I learnt from it** The goal of this assignment was to make a circuit with at least two logic gates using no code, this taught me a lot about transistors and gave me a better understanding of how logic gates actually work even in code, I also had to worry about resistance issues and learn ohms law, this assignment has definitely taught me the most new information.
     
-  * **Explain the design process**
+  * **Explain the design process** I started off by finding what I wanted to make, and then I made a prototype in [Tinkercad](https://www.tinkercad.com) which had a fair share of issues however I got it mostly working and moved onto making the physical version, however, I realised too late on that my project would not actually be my original idea and instead became a variant of the original circuit I was trying to make, this is due to poor planning, after finishing the physical version I wrote my documentation and then got feedback and did some editing.
     
-  * **Constraints for decision making**
+  * **Constraints for decision making** 
     
   * **How I used these skills**
     
