@@ -36,7 +36,7 @@
   * [Table of Contents](#Table-of-Contents)
 
 <a name="Assignment-4"></a>
-# [Assignment 4]() (Logic-Gates)
+# [Assignment 4](https://docs.google.com/document/d/1AUkccOJvTg26qP0JidxsnGPb405F-uH-OYcI0rLjJEU/edit?usp=sharing) (Logic-Gates)
   * **What the assignment was and what I learnt from it** The goal of this assignment was to make a circuit with at least two logic gates using no code, this taught me a lot about transistors and gave me a better understanding of how logic gates actually work even in code, I also had to worry about resistance issues and learn ohms law, this assignment has definitely taught me the most new information.
     
   * **Explain the design process** I started off by finding what I wanted to make, and then I made a prototype in [Tinkercad](https://www.tinkercad.com) which had a fair share of issues however I got it mostly working and moved onto making the physical version, however, I realised too late on that my project would not actually be my original idea and instead became a variant of the original circuit I was trying to make, this is due to poor planning, after finishing the physical version I wrote my documentation and then got feedback and did some editing.
