@@ -23,11 +23,11 @@
     
 <a name="Assignment-3"></a>
 # Assignment 3 (Prototyping)
-  * **What the assignment was and what I learnt from it**
+  * **What the assignment was and what I learnt from it** The goal of this assignment was to make a prototype using the 3D-Model from [Assignment 2 (Fusion-360)](#Assignment-2), I had to make a parts list so they could be ordered which taught me a bit about what electronic parts I should be looking for.
     
-  * **Explain the design process**
+  * **Explain the design process** 
     
-  * **Constraints for decision making**
+  * **Constraints for decision making** Due to [Assignment 2 (Fusion-360)](#Assignment-2) being less than ideal it did affect this assignment quiet critically and 
     
   * **How I used these skills**
     
