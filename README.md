@@ -33,7 +33,7 @@
     
   * **How to use these skills in the future**
     
-  * <a href="url"><img src="robotics evidence.png" align="right" height="240" width="427" ></a> **If I could redo this assignment** I don't think I could have changed much of the outcome due to the sudden lack of parts due to a logistics issue, however, I would have liked to have put more thought into my puzzle because, in the end, that was what got my grade marked down a bit. The puzzle was a bit incomplete and was really hard to work out without instructions, as you can see in the image I had to put paper notes explaining how to do various parts of the puzzle due to it being unintuitive.
+  * <a href="url"><img src="robotics evidence.jpg" align="right" height="240" width="427" ></a> **If I could redo this assignment** I don't think I could have changed much of the outcome due to the sudden lack of parts due to a logistics issue, however, I would have liked to have put more thought into my puzzle because, in the end, that was what got my grade marked down a bit. The puzzle was a bit incomplete and was really hard to work out without instructions, as you can see in the image I had to put paper notes explaining how to do various parts of the puzzle due to it being unintuitive.
     
   * [Table of Contents](#Table-of-Contents)
 
