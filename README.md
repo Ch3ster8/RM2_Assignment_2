@@ -25,7 +25,7 @@
 # [Assignment 3](https://docs.google.com/document/d/1Jk0fSGwwOLpr9i07WvMMjKFnM6h-2lXJJdnnV7qE2yY/edit?usp=sharing) (Prototyping)
   * **What the assignment was and what I learnt from it** The goal of this assignment was to make a prototype using the 3D-Model from [Assignment 2 (Fusion-360)](#Assignment-2), I had to make a parts list so they could be ordered which taught me a bit about what electronic parts I should be looking for. The main part that I learn was wiring up the various parts and linking them together in code.
     
-  * **Explain the design process** I did not start with planning because this assignment was based on [Assignment 2 (Fusion-360)](#Assignment-2) which was the planning, so I got straight to work on the project and after making it functional I did some testing with friends that were over at my house and applied the necessary tweaks.
+  * <a href="url"><img src="robotics evidence.jpg" align="right" height="427" width="427" ></a>**Explain the design process** I did not start with planning because this assignment was based on [Assignment 2 (Fusion-360)](#Assignment-2) which was the planning, so I got straight to work on the project and after making it functional I did some testing with friends that were over at my house and applied the necessary tweaks.
     
   * **Constraints for decision making** Due to [Assignment 2 (Fusion-360)](#Assignment-2) being less than ideal, it did affect this assignment quite critically and so because of this constraint I decided to laser cut my prototype, this was also faster and taught me a bit about using [Hackerspace](https://boxes.hackerspace-bamberg.de/Console2?language=en). There was also a supply issue and none of our parts were ordered, this meant I had to change a lot of my project and basically ended up changing the entire concept of the project.
     
@@ -33,7 +33,7 @@
     
   * **How to use these skills in the future**
     
-  * <a href="url"><img src="robotics evidence.jpg" align="right" height="240" width="427" ></a> **If I could redo this assignment** I don't think I could have changed much of the outcome due to the sudden lack of parts due to a logistics issue, however, I would have liked to have put more thought into my puzzle because, in the end, that was what got my grade marked down a bit. The puzzle was a bit incomplete and was really hard to work out without instructions, as you can see in the image I had to put paper notes explaining how to do various parts of the puzzle due to it being unintuitive.
+  *  **If I could redo this assignment** I don't think I could have changed much of the outcome due to the sudden lack of parts due to a logistics issue, however, I would have liked to have put more thought into my puzzle because, in the end, that was what got my grade marked down a bit. The puzzle was a bit incomplete and was really hard to work out without instructions, as you can see in the image I had to put paper notes explaining how to do various parts of the puzzle due to it being unintuitive.
     
   * [Table of Contents](#Table-of-Contents)
 
