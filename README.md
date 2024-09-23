@@ -13,9 +13,9 @@
     
   * **Constraints for decision making** I needed to incorporate my lack of knowledge into my design's complexity as I was not able to fully complete it. 
     
-  * **How I used these skills** 3D-Modeling is an important skill
+  * **How I used these skills** 3D-Modeling is an important skill and I used this skill to get a digital, visual representation of what my prototype was going to look like, this skill was very new to me as I had never touched a 3D-Modeling software before this and this meant that my 3D-Model had loads of issues.
     
-  * **How to use these skills in the future**
+  * **How to use these skills in the future** 
     
   * **If I could redo this assignment**
 
