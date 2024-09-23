@@ -52,7 +52,10 @@
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
-  * Robotics contains
+  * Robotics contains a variety of issues concerning ethics but the topic I'm going to touch on is AI, it is a common misconception that AI can think like the human brain but in reality, it is just an extremely long string of logic gates put together to create a desired output based on an input which is usually a library containing a load of data that the AI can take from. (Müller, 2020)
+  * However, AI can still pose threats to human safety as it can be adapted to physical circuits and can be trained to do the wrong things, like for example, harm a human, there is also the issue of logic gates potentially outputting wrong. (Science ABC, 2021) This website explains how cosmic rays from space can flip the output of a logic gate and cause a wrong output, for an extremely complex AI it could only take one bitflip to potentially harm a human, or do damage in other ways
 
+<a name="Bibliography"></a>
 # Bibliography
   * Müller, V.C. (2020). Ethics of Artificial Intelligence and Robotics. Summer 2020 ed. [online] Stanford Encyclopedia of Philosophy. Available at: https://plato.stanford.edu/entries/ethics-ai/.
+  * Science ABC. (2021). What Are Bit Flips And How Are Spacecraft Protected From Them? [online] Available at: https://www.scienceabc.com/innovation/what-are-bit-flips-and-how-are-spacecraft-protected-from-them.html.
