@@ -6,7 +6,7 @@
   * [Ethics and Sustainability](#Ethics-and-Sustainability)
 
 <a name="Assignment-2"></a>
-# Assignment 2 (Fusion-360)
+# [Assignment 2](https://docs.google.com/document/d/1LIhUYkaf867kwXQBt9mHuq_mbfdXFZp5bEwa1eQIe9M/edit?usp=sharing) (Fusion-360)
   * **What the assignment was and what I learnt from it** The task for this assignment was to make a 3D-Model of a puzzle that could go into an escape room, for this I had to learn how to use Fusion-360 and how to measure using a caliper.
     
   * **Explain the design process** This was the first assignment in which I had to use a design process, I started with planning what the project would be and then I started working on it, this was a massive oversight on my part as I should have got some feedback on my planning before starting on the project.
@@ -22,7 +22,7 @@
   * [Table of Contents](#Table-of-Contents)
     
 <a name="Assignment-3"></a>
-# Assignment 3 (Prototyping)
+# [Assignment 3](https://docs.google.com/document/d/1Jk0fSGwwOLpr9i07WvMMjKFnM6h-2lXJJdnnV7qE2yY/edit?usp=sharing) (Prototyping)
   * **What the assignment was and what I learnt from it** The goal of this assignment was to make a prototype using the 3D-Model from [Assignment 2 (Fusion-360)](#Assignment-2), I had to make a parts list so they could be ordered which taught me a bit about what electronic parts I should be looking for. The main part that I learn was wiring up the various parts and linking them together in code.
     
   * **Explain the design process** I did not start with planning because this assignment was based on [Assignment 2 (Fusion-360)](#Assignment-2) which was the planning, so I got straight to work on the project and after making it functional I did some testing with friends that were over at my house and applied the necessary tweaks.
@@ -38,7 +38,7 @@
   * [Table of Contents](#Table-of-Contents)
 
 <a name="Assignment-4"></a>
-# Assignment 4 (Logic-Gates)
+# [Assignment 4]() (Logic-Gates)
   * **What the assignment was and what I learnt from it**
     
   * **Explain the design process**
