@@ -15,9 +15,9 @@
     
   * **How I used these skills** 3D-Modeling is an important skill and I used this skill to get a digital, visual representation of what my prototype was going to look like, this skill was very new to me as I had never touched a 3D-Modeling software before this and this meant that my 3D-Model had loads of issues.
     
-  * **How to use these skills in the future** 
+  * **How to use these skills in the future** Even if I am not the one 3D-Modeling something this skill can be usefull to view 3D-Models and understand what is going on, knowing Fusion-360 is also a vital skill in the robotics industry as it can be used to export various file types which are used to lazer cut, 3D print or CNC, and more.
     
-  * **If I could redo this assignment**
+  * **If I could redo this assignment** If I could redo this assignment I would work more on my 3D-modeling skils while doing the assignment, as I did ot put much personal time into learning the 3D-Modeling software and this caused me lack behind and not finish the model.
 
   * [Table of Contents](#Table-of-Contents)
     
