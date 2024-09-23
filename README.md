@@ -25,6 +25,8 @@
     
   * **If I could redo this assignment**
 
+  * [Table of Contents](#Table-of-Contents)
+    
 <a name="Assignment-3"></a>
 # Assignment 3 (Prototyping)
   * **What the assignment was and what I learnt from it**
@@ -38,6 +40,8 @@
   * **How to use these skills in the future**
     
   * **If I could redo this assignment**
+    
+  * [Table of Contents](#Table-of-Contents)
 
 <a name="Assignment-4"></a>
 # Assignment 4 (Logic-Gates)
@@ -52,6 +56,8 @@
   * **How to use these skills in the future**
     
   * **If I could redo this assignment**
+    
+  * [Table of Contents](#Table-of-Contents)
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
