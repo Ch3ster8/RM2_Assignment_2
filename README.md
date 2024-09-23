@@ -4,6 +4,7 @@
   * [Assignment 3 (Prototyping)](#Assignment-3)
   * [Assignment 4 (Logic-Gates)](#Assignment-4)
   * [Ethics and Sustainability](#Ethics-and-Sustainability)
+  * [Bibliography](#Bibliography)
 
 <a name="Assignment-2"></a>
 # [Assignment 2](https://docs.google.com/document/d/1LIhUYkaf867kwXQBt9mHuq_mbfdXFZp5bEwa1eQIe9M/edit?usp=sharing) (Fusion-360)
@@ -45,10 +46,13 @@
     
   * The knowledge of logic gates and truth tables can be really useful for coding, for me coding is my best skill and upgrading that skill to a further degree is always welcome, it is good for coding because working out complex problems can be as simple as making a truth table and then reverse engineering the truth table into logic gates then converting that into if statements, this is useful for all circuits that require code as a skill but this knowledge can also be used for primitive logic gates if needed.
     
-  * If I could redo this assignment I would 
+  * If I could redo this assignment I would have planned the right circuit from the start, which was the Gated SR-Latch, this in turn, would have resulted in me planning my entire project properly on tinkercad allowing for simple conversion from digital to physical circuit, and despite various issues that, that conversion might have it still would have been a lot easier to work with rather than scrapping my project multiple times and ultimately switching circuits which wasted A LOT of time.
     
   * [Table of Contents](#Table-of-Contents)
 
 <a name="Ethics-and-Sustainability"></a>
 # Ethics and Sustainability
-  * 
+  * Robotics contains
+
+# Bibliography
+  * Müller, V.C. (2020). Ethics of Artificial Intelligence and Robotics. Summer 2020 ed. [online] Stanford Encyclopedia of Philosophy. Available at: https://plato.stanford.edu/entries/ethics-ai/.
