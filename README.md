@@ -7,7 +7,7 @@
 
 <a name="Assignment-2"></a>
 # Assignment 2 (Fusion-360)
-  * **What the assignment was and what I learnt from it**
+  * **What the assignment was and what I learnt from it** The task for this assignment was to make a 3D-Model of a puzzle that could go into an escape room, for this I had to learn how to use Fusion-360 and how to measure using a caliper.
     
   * **Explain the design process**
     
